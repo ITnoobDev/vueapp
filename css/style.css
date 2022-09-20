@@ -6,6 +6,9 @@
 * {
     box-sizing: border-box;
 }
+.test {
+    font-size: 15px;
+}
 body {
     font-family: "Yanone", sans-serif;
 }
